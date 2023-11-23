@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 
+- Meu nome é Douglas Teixeira da Rocha
+- Estou estudando pela Alura;
+- Aprendendo sobrea linguagem de JavaScript;
+- Esse espaço é destinado aos projetos desenvolvidos dentro da Alura.
 
-<!--
-**douglasrocha1a/douglasrocha1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Pode entrar em contato comigo pelo meu Gmail:
 
-Here are some ideas to get you started:
+- douglas. teixeira. rocha@escola. pr. gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
